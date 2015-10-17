@@ -1,0 +1,10 @@
+branch-defaults:
+  default:
+    environment: eb-django-app-dev
+global:
+  application_name: eb_django_app
+  default_ec2_keyname: NEERAJ
+  default_platform: Python 3.4
+  default_region: us-west-2
+  profile: eb-cli
+  sc: null
